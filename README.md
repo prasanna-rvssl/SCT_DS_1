@@ -36,5 +36,5 @@ The visualization shows that the largest concentration of Titanic passengers was
 ## 📂 Project Files
 
 - [Tableau Workbook](SCT_DS_1_Titanic_Age_Distribution.twb)
-- [Dashboard Visualization](age_distribution.png)
+- [Visualization](age_distribution.png)
 - [Titanic Dataset](train.csv)
